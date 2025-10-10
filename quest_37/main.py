@@ -5,7 +5,6 @@ class Quadra:
         self.largura = largura
         self.comprimento = comprimento
 
-
 quadra = Quadra(28, 15)
 print(f"Largura: {quadra.largura} metros")
 print(f"Comprimento: {quadra.comprimento} metros")
