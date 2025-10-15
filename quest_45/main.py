@@ -40,5 +40,3 @@ temporada2 = Temporada(2025, "NBB")
 print(temporada1)
 print(temporada2)
 
-
-
