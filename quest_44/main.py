@@ -13,4 +13,4 @@ class Estatistica:
                 f"Assistências: {self.assistencias}\n"
                 f"Rebotes: {self.rebotes}")
 estatistica = Estatistica("João", pontos = 7, assistencias=4, rebotes = 3)
-print(estatistica)
+print(estatistica) 
